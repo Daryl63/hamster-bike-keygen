@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Hamster bike keygen
 // @version     1.11
-// @homepageURL https://github.com/georg95/hamster-bike-keygen/blob/main/README.md
+// @homepageURL https://github.com/Daryl63/hamster-bike-keygen/blob/main/README.md
 // @downloadURL https://georg95.github.io/hamster-bike-keygen/script.user.js
 // @author      georg95
 // @namespace   Violentmonkey Scripts
